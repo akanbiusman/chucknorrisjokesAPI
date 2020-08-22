@@ -1,1 +1,1 @@
-# akanbiusman.github.io/chucknorrisjokesAPI
+# http://akanbiusman.github.io/chucknorrisjokesAPI
