@@ -18,6 +18,20 @@
         ul {
             list-style-type: none;
             margin-bottom: 10px;
+            opacity: 0;
+            animation: 2s fadeInUp forwards;
+        }
+
+        
+        @keyframes fadeInUp {
+            from {
+                transform: translate3d(0,40px,0)
+               }
+
+            to {
+                transform: translate3d(0,0,0);
+                opacity: 1
+               }
         }
     </style>
 </head>
