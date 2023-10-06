@@ -1,3 +1,3 @@
-We all love some good laughs haha
+# [Get Chuck Norris' Jokes](http://akanbiusman.github.io/chucknorrisjokesAPI)
 
-# http://akanbiusman.github.io/chucknorrisjokesAPI
+We all love some good laughs haha ;)
